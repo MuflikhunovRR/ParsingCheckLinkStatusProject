@@ -1,0 +1,12 @@
+2018-07-24 21:53:10.815 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - 200
+2018-07-24 21:53:10.817 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - https://www.alfastrah.ru/docs/soglasie.pdf
+2018-07-24 21:53:10.817 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - -----------------------------------
+2018-07-24 21:53:10.862 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - 200
+2018-07-24 21:53:10.863 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - https://www.alfastrah.ru/docs/Politika_pd.pdf
+2018-07-24 21:53:10.863 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - -----------------------------------
+2018-07-24 21:53:11.037 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - 200
+2018-07-24 21:53:11.038 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - https://www.alfastrah.ru/login/
+2018-07-24 21:53:11.038 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - -----------------------------------
+2018-07-24 21:53:11.038 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - Кол-во линков: 3
+2018-07-24 21:53:11.038 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - Кол-во 200 ответов: 3
+2018-07-24 21:53:11.038 [main] INFO  ru.gotoqa.ParsingCheckLinkStatus - Кол-во не 200 ответов: 0
